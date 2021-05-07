@@ -3,3 +3,4 @@ select
     , name
 from
     database
+limit 100
