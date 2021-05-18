@@ -1,0 +1,4 @@
+select
+    time
+from
+    sample
